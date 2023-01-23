@@ -1,7 +1,7 @@
 # ParkinsonDeepLearningExperimentation
 
 # Welcome to the Github repository.  In this repository, a Jupyter notebook containing the deep learning program can be found.
-# In addition, the code is in a .py format for those willing to experiment with it.
+# In addition, the code is also provided in a .py format for those willing to experiment with it.
 # Lastly, there is a copy of the raw data used to train and evaluate the deep learning model.
 
 # If running the model returns an ERROR for the dataset, it may be necessary to repaste the link of the parkinsons.csv data.  The token may have expired.
